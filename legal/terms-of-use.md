@@ -9,7 +9,7 @@ By accessing or using the Services, you agree to these Terms. If you are using t
 
 ***
 
-###1\. Acceptance of Terms
+### 1\. Acceptance of Terms
 
 By creating an account or using the Services in any way, you confirm that you:
 
