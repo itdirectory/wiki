@@ -9,7 +9,7 @@ By accessing or using our Services, you agree to the terms of this Privacy Polic
 
 ***
 
-1\. Scope of Policy
+### 1\. Scope of Policy
 
 This Privacy Policy applies to:
 
@@ -19,7 +19,7 @@ This Privacy Policy applies to:
 
 ***
 
-2\. Controller vs. Processor
+### 2\. Controller vs. Processor
 
 IT Directory serves organizations ("Customers") as a multi-tenant platform. The nature of our role depends on the category of data:
 
@@ -29,21 +29,21 @@ We are a **data processor acting on behalf of the Customer** for employee record
 
 ***
 
-3\. Information We Collect
+### 3\. Information We Collect
 
-3.1 Information You Provide
+#### 3.1 Information You Provide
 
 * Account Details: Name, email address, password, and role.
 * Organization Data: Company name, structure, and sub-organization relationships.
 * Employee Records: Staff information entered or imported by Customer administrators, including names, contact details, job titles, departments, and asset assignments.
 
-3.2 Information from Third-Party Connectors
+#### 3.2 Information from Third-Party Connectors
 
 When Customers enable integrations, we import data on their behalf from:
 
 Third-party identity providers, device management systems, DNS and domain registrars, and other services the Customer connects to IT Directory. The data imported depends on the integration and may include employee directory information, device inventory details, domain records, and related metadata.
 
-3.3 Information Collected Automatically
+#### 3.3 Information Collected Automatically
 
 * Session Data: An authentication cookie is set when you log in to maintain your session.
 * Usage & Performance Data: We may collect information about how you interact with the platform, including pages visited, features used, and performance metrics, to operate and improve the Services.
@@ -51,7 +51,7 @@ Third-party identity providers, device management systems, DNS and domain regist
 
 ***
 
-4\. How We Use Information
+### 4\. How We Use Information
 
 We use your data to:
 
@@ -66,7 +66,7 @@ We do not use personal data to serve advertising or train machine learning model
 
 ***
 
-5\. Legal Basis for Processing (for GDPR Users)
+### 5\. Legal Basis for Processing (for GDPR Users)
 
 We process data based on:
 
@@ -77,7 +77,7 @@ We process data based on:
 
 ***
 
-6\. Data Sharing and Disclosure
+### 6\. Data Sharing and Disclosure
 
 We do not sell your data. We may share data with:
 
@@ -88,7 +88,7 @@ We do not sell your data. We may share data with:
 
 ***
 
-7\. Data Security
+### 7\. Data Security
 
 We use industry-standard measures to protect your data:
 
@@ -99,7 +99,7 @@ We use industry-standard measures to protect your data:
 
 ***
 
-8\. Data Retention
+### 8\. Data Retention
 
 We retain data only for as long as necessary to:
 
@@ -110,7 +110,7 @@ Upon account termination or written request, we securely delete your data within
 
 ***
 
-9\. Your Rights
+### 9\. Your Rights
 
 Depending on your jurisdiction, you may have the right to:
 
@@ -127,31 +127,31 @@ To exercise your rights, contact us at info@itdirectory.app
 
 ***
 
-10\. International Data Transfers
+### 10\. International Data Transfers
 
 Your data may be transferred and stored in countries where we or our service providers operate. We ensure appropriate safeguards (e.g., Standard Contractual Clauses) are in place for such transfers.
 
 ***
 
-11\. Children's Privacy
+### 11\. Children's Privacy
 
 Our Services are intended for IT professionals and are not directed to individuals under 18. We do not knowingly collect data from children. If you believe a child has provided personal data, contact us immediately.
 
 ***
 
-12\. Cookies and Tracking Technologies
+### 12\. Cookies and Tracking Technologies
 
 We use a single authentication session cookie to maintain your logged-in session. We may use additional cookies for analytics or performance purposes, which will be disclosed in an updated cookie notice. You can clear this cookie at any time by logging out or clearing your browser cookies.
 
 ***
 
-13\. Changes to This Policy
+### 13\. Changes to This Policy
 
 We may update this Privacy Policy periodically. Material changes will be notified via email or platform banner. Continued use after changes constitutes acceptance.
 
 ***
 
-14\. Contact Us
+### 14\. Contact Us
 
 If you have questions, requests, or complaints about this Privacy Policy or our data practices, contact:
 
