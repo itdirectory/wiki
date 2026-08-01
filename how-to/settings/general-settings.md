@@ -11,4 +11,4 @@
 
 ## Notes
 
-- Further down the same page is a **Delete Organization** danger-zone section — this deletes the organization itself (not a sub-org). Treat it with the same caution as deleting a sub-org (see https://docs.itdirectory.app/how-to/creating-sub-organizations for the equivalent confirmation pattern), but be aware this is your root organization, not a child of it.
+- Further down the same page is a **Delete Organization** danger-zone section — this deletes the organization itself (not a sub-org). Treat it with the same caution as deleting a sub-org (see https://docs.itdirectory.app/how-to/assets/creating-sub-organizations for the equivalent confirmation pattern), but be aware this is your root organization, not a child of it.

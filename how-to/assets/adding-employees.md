@@ -32,5 +32,5 @@
 
 ## Notes
 
-- Adding an employee counts against your organization's pooled asset limit — see https://docs.itdirectory.app/how-to/billing.
-- Employees can also be bulk-imported via the **Import** button, or synced automatically from Microsoft Entra ID — see https://docs.itdirectory.app/how-to/connectors.
+- Adding an employee counts against your organization's pooled asset limit — see https://docs.itdirectory.app/how-to/settings/billing.
+- Employees can also be bulk-imported via the **Import** button, or synced automatically from Microsoft Entra ID — see https://docs.itdirectory.app/how-to/connectors/connectors.

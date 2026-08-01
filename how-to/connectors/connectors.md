@@ -23,7 +23,7 @@ Connectors automatically import data from outside services — Cloudflare domain
 ## Microsoft Intune (import devices as hardware)
 
 11. Click **Install**/**Configure** on the Microsoft Intune card.
-12. This connector reuses your organization's Entra ID credentials — if you haven't configured those yet, you'll see a prompt to go to **Settings → SSO — Entra ID** first (see https://docs.itdirectory.app/how-to/sso-setup). Come back here afterward.
+12. This connector reuses your organization's Entra ID credentials — if you haven't configured those yet, you'll see a prompt to go to **Settings → SSO — Entra ID** first (see https://docs.itdirectory.app/how-to/security/sso-setup). Come back here afterward.
 13. Once configured, the dialog shows a notice that this requires the `DeviceManagementManagedDevices.Read.All` application permission with admin consent in Azure.
 14. Turn on **"Auto-sync daily"** if desired (saves immediately).
 15. If you have sub-organizations, use the **Per-Company Device Group Routing** box to map an Entra security group name to a specific sub-org — devices in that group are routed there ahead of the device's enrolled-user company.

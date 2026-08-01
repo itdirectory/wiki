@@ -24,5 +24,5 @@
 
 ## Notes
 
-- Domains can also be imported automatically from Cloudflare — see https://docs.itdirectory.app/how-to/connectors.
-- Adding a domain counts against your organization's pooled asset limit — see https://docs.itdirectory.app/how-to/billing.
+- Domains can also be imported automatically from Cloudflare — see https://docs.itdirectory.app/how-to/connectors/connectors.
+- Adding a domain counts against your organization's pooled asset limit — see https://docs.itdirectory.app/how-to/settings/billing.

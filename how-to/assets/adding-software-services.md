@@ -52,4 +52,4 @@
 
 ## Notes
 
-- Adding a software asset counts against your organization's pooled asset limit — see https://docs.itdirectory.app/how-to/billing.
+- Adding a software asset counts against your organization's pooled asset limit — see https://docs.itdirectory.app/how-to/settings/billing.

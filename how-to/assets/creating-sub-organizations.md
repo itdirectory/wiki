@@ -28,5 +28,5 @@ Sub-organizations represent departments, teams, or client companies within your 
 ## Notes
 
 - The sub-org table shows Name, Employees, Hardware, Licenses, and Users counts per row.
-- Every root organization has a pooled asset/sub-org limit tied to its billing plan. If you're at your sub-org limit, creating a new one fails with "You've reached your sub-organization limit — contact us to upgrade" — see https://docs.itdirectory.app/how-to/billing.
-- To grant a Company Admin/Technician access to specific sub-orgs, do that from **Settings → Users** — see https://docs.itdirectory.app/how-to/user-management.
+- Every root organization has a pooled asset/sub-org limit tied to its billing plan. If you're at your sub-org limit, creating a new one fails with "You've reached your sub-organization limit — contact us to upgrade" — see https://docs.itdirectory.app/how-to/settings/billing.
+- To grant a Company Admin/Technician access to specific sub-orgs, do that from **Settings → Users** — see https://docs.itdirectory.app/how-to/security/user-management.

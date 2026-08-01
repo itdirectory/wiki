@@ -31,5 +31,5 @@ Lets your team sign in with their Microsoft accounts instead of an email/passwor
 ## Notes
 
 - There's no in-app password setup for SSO users — the account is created automatically on first Entra ID sign-in.
-- Employee and device sync (importing people/devices from Entra/Intune) are configured separately — see https://docs.itdirectory.app/how-to/connectors.
+- Employee and device sync (importing people/devices from Entra/Intune) are configured separately — see https://docs.itdirectory.app/how-to/connectors/connectors.
 - If SSO is disabled after being enabled, affected users fall back to needing a local password (or lose access if they never had one) — double check before disabling for an active organization.
