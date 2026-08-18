@@ -7,7 +7,7 @@ Sets up a daily email digest of hardware, license, and domain items approaching 
 ## Steps
 
 1. In the left sidebar, click **Settings**, then click the **Reminders** tab (`/settings/reminders`).
-2. In **Recipient emails**, enter a comma-separated list of addresses that should receive the digest (e.g. `it-team@company.com, ops@company.com`).
+2. In **Recipient emails**, add each address that should receive the digest: type an address and press Enter (or a comma) to turn it into a tag, or paste in a whole list at once and each valid address becomes its own tag. Remove one by clicking the × on its tag, or press Backspace with the input empty to remove the last one. An invalid entry shows a brief "Not a valid email address" error instead of being added.
 3. For each of the four categories, toggle it on/off and set how many days before the due date it should start alerting:
    - **Hardware warranty expiry**
    - **Software license / SaaS renewal**

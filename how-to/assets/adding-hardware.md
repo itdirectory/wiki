@@ -18,7 +18,7 @@
    - **Brand**, **Model**, **Serial Number**, **Asset Tag** — all optional.
 
    **Ownership & Purchase**
-   - **Assigned To** — optional, searchable employee picker (shows "No employees yet — add employees first" if your org has none — see https://docs.itdirectory.app/how-to/assets/adding-employees).
+   - **Assigned To** — optional, searchable employee picker (shows "No employees yet — add employees first" if your org has none — see https://docs.itdirectory.app/how-to/adding-employees).
    - **Vendor / Supplier**, **Purchase Price ($)**, **Purchase Date**, **Warranty Expiry** — all optional.
 
    **Notes**
@@ -35,5 +35,5 @@
 
 ## Notes
 
-- You can also bulk-import hardware via the **Import** button next to Add Hardware.
-- Adding hardware counts against your organization's pooled asset limit — see https://docs.itdirectory.app/how-to/settings/billing.
+- You can also bulk-import hardware via the **Import** button next to Add Hardware. It accepts CSV files only (Excel files aren't supported), up to 5MB and 20,000 rows.
+- Adding hardware counts against your organization's pooled asset limit — see https://docs.itdirectory.app/how-to/billing.
