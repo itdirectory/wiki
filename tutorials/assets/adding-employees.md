@@ -32,5 +32,5 @@
 
 ## Notes
 
-- Adding an employee counts against your organization's pooled asset limit — see https://docs.itdirectory.app/how-to/billing.
-- Employees can also be bulk-imported via the **Import** button, or synced automatically from Microsoft Entra ID — see https://docs.itdirectory.app/how-to/connectors. Bulk import accepts CSV files only (Excel files aren't supported), up to 5MB and 20,000 rows.
+- Adding an employee counts against your organization's pooled asset limit — see https://docs.itdirectory.app/tutorials/billing.
+- Employees can also be bulk-imported via the **Import** button, or synced automatically from Microsoft Entra ID — see https://docs.itdirectory.app/tutorials/connectors. Bulk import accepts CSV files only (Excel files aren't supported), up to 5MB and 20,000 rows.

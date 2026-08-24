@@ -38,4 +38,4 @@
 
 - You cannot change your own role or Active/Inactive status through this page — the system blocks it even if you try.
 - Prefer **deactivating** (Edit → set status to Inactive) over **removing** when someone leaves but you want to keep their historical assignments intact.
-- SSO users can also be pre-provisioned via **Settings → SSO — Entra ID → User Invitations** — see https://docs.itdirectory.app/how-to/security/sso-setup.
+- SSO users can also be pre-provisioned via **Settings → SSO — Entra ID → User Invitations** — see https://docs.itdirectory.app/tutorials/security/sso-setup.

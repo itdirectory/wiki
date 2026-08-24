@@ -24,6 +24,6 @@
 
 ## Notes
 
-- Domains can also be imported automatically from Cloudflare — see https://docs.itdirectory.app/how-to/connectors.
+- Domains can also be imported automatically from Cloudflare — see https://docs.itdirectory.app/tutorials/connectors.
 - You can also bulk-import domains via the **Import** button next to Add Domain. It accepts CSV files only (Excel files aren't supported), up to 5MB and 20,000 rows.
-- Adding a domain counts against your organization's pooled asset limit — see https://docs.itdirectory.app/how-to/billing.
+- Adding a domain counts against your organization's pooled asset limit — see https://docs.itdirectory.app/tutorials/billing.

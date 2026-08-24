@@ -53,4 +53,4 @@
 ## Notes
 
 - You can also bulk-import software & services via the **Import** button next to Add Asset. It accepts CSV files only (Excel files aren't supported), up to 5MB and 20,000 rows.
-- Adding a software asset counts against your organization's pooled asset limit — see https://docs.itdirectory.app/how-to/billing.
+- Adding a software asset counts against your organization's pooled asset limit — see https://docs.itdirectory.app/tutorials/billing.
